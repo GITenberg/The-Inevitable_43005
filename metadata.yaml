@@ -27,6 +27,8 @@ creator:
     - http://nl.wikipedia.org/wiki/Louis_Couperus
     - http://en.wikipedia.org/wiki/Louis_Couperus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43005#The-Inevitable
 gutenberg_issued: '2013-06-21'
 gutenberg_type: Text
 identifiers:
